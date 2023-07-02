@@ -39,24 +39,14 @@
 
 ---
 
-<br/>
+## ⚡ GitHub Stats
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaxonfromkh&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonfromkh&line_height=40&hide=css&theme=react&line_height=60"/>
-    </a>
-</div
-  
-<br/>
+<p align="center">
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=don-cryptus&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=don-cryptus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=don-cryptus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
 
 ---
-
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
