@@ -1,12 +1,12 @@
-# Hi there, I'm nil - [@Goat Dev](https://discord.gg/5fnpvJaBqh)
+# Hi there, I'm JaxonFromKH - [@jaxonfromkh](https://github.com/jaxonfromkh)
 
 <p align="center">
-  <a href="https://github.com/Jinx-Dev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FJinx-Dev"/></a>
-  <a href="https://github.com/Jinx-Dev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jinx-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Jinx-Dev/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Jinx-Dev&style=for-the-badge&color=lightgrey"/></a>
+  <a href="https://github.com/jaxonfromkh?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fjaxonfromkh"/></a>
+  <a href="https://github.com/jaxonfromkh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaxonfromkh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/jaxonfromkh/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jaxonfromkh&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
 <p align="center"><img height="200" src="https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></p>
@@ -45,10 +45,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jinx-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaxonfromkh&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinx-Dev&line_height=40&hide=css&theme=react&line_height=60"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxonfromkh&line_height=40&hide=css&theme=react&line_height=60"/>
     </a>
 </div
   
