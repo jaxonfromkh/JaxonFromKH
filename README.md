@@ -9,6 +9,8 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jaxonfromkh&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Backend Developer and Fivem Developer
