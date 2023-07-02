@@ -18,7 +18,7 @@
 - 👨‍💻 I’m currently working on QBCore Files .
 - 📚 I’m currently learning everything about SQL and Lua technologies 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to coding.
 
 ---
 
