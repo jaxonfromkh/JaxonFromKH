@@ -1,4 +1,4 @@
-# Hi there, I'm JaxonFromKH - [@jaxonfromkh](https://github.com/jaxonfromkh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi+there%2C+I'm+JaxonFromKH!)](https://github.com/jaxonfromkh)
 
 <p align="center">
   <a href="https://github.com/jaxonfromkh?tab=repositories&sort=stargazers">
