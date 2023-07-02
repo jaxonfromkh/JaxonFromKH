@@ -9,8 +9,6 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jaxonfromkh&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-<p align="center"><img height="200" src="https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></p>
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Backend Developer and Fivem Developer
