@@ -46,6 +46,6 @@
 
 ## ⚡ Discord Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/750989197611106314)](https://discord.com/users/750989197611106314)
+[![Discord Presence]([https://lanyard.cnrad.dev/api/750989197611106314](https://lanyard.cnrad.dev/api/750989197611106314?showDisplayName=true&idleMessage=Doing%20something%20else!)https://lanyard.cnrad.dev/api/750989197611106314?showDisplayName=true&idleMessage=Doing%20something%20else!)](https://discord.com/users/750989197611106314)
 
 ---
