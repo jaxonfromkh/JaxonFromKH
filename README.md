@@ -43,9 +43,3 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-
-## ⚡ Discord Activity
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/750989197611106314?showDisplayName=true&idleMessage=Doing%20something%20else!)](https://discord.com/users/750989197611106314)
-
----
